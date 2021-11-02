@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hello {} , I'am a url to telegram file or media uploader bot with permanent thumbnail support.
+Hello {} , I'AM A URL TO TELEGRAM FILE OR MEDIA UPLOADER BOT WITH PERMANENT THUMBNAIL SUPPORT.
 
-Made by @YASH 🙂💚​
+MADE BY YASH 🙂💚​
 """
     HELP_TEXT = """
 <b><u>Link to Media or File</u></b>
@@ -20,13 +20,15 @@ Made by @YASH 🙂💚​
 <b><u>Show Thumbnail</u></b>
 ➠ Send /showthumb to view custom thumbnail.
 
-Made by @Mo_Tech_YT
+MADE BY @YashPutha
 """
     ABOUT_TEXT = """
 - **Bot :** URL Uploader
 - **CREATOR :** [YASH 🙂💚​](https://t.me/YashPutha)
+
 - **GROUP :** [🔰ඩේටා HACKERZ🔰](https://t.me/joinchat/ArkWZG_MBmBjMGM1)
-- **LANGUAGE :** [Python3](https://python.org)
+
+- **LANGUAGE :** [PYTHON3](https://python.org)
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
