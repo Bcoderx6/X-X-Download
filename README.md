@@ -16,13 +16,13 @@ USE DOWNLOAD ANYTHING
 </p>
 
 ```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
-Made with Python3
+SCRAPPED SOME CODE FROM @SPECHIDE'S ANYDLBOT REPOSITORY
+MADE WITH PYTHON3
 
-Thanks To @KAVISHKA119
+THANKS TO @KAVISHKA119
 ```
 
-## Deploy 
+## DEPLOY 
 
 <b>Deploy on Heroku</b>
 <p align="left">
