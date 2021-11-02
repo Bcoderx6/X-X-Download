@@ -19,10 +19,10 @@
       "description": "Your bot token from @botfather, as a string."
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot"
+      "description": "Get this value from https://my.telegram.org or @YashPutha"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot"
+      "description": "Get this value from https://my.telegram.org or @YashPutha"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot"
