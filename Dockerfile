@@ -23,4 +23,4 @@ RUN chmod 0775 /app/gautam/gclone
 COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
 COPY . .
-CMD ["python3","bot.py"]
+CMD ["python3","translation.py"]
